@@ -1,0 +1,14 @@
+{
+  "name": "pokemondiscord",
+  "version": "1.0.0",
+  "description": "Discord Pokémon-bot til eksamensserveren",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "discord.js": "^14.25.1",
+    "dotenv": "^16.6.1"
+  }
+}
